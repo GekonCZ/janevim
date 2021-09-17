@@ -23,5 +23,7 @@ public class Letters extends Program implements  ProgramAction{
             }
         }
         System.out.println("Pocet: " + sum);
+        System.out.println("Ahoj");
+        System.out.println("světe!");
     }
 }
